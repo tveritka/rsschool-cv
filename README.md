@@ -1,1 +1,1 @@
-https://TveritinaAnna/rsschool-cv/cv
+https://tveritka.github.io/rsschool-cv/cv
