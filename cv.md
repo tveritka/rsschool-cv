@@ -1,4 +1,7 @@
  * Github: @tveritka
+- ### Contact infotmation
+    * Anna Tveritina
+    * tveritka@mail.ru
 - ### The main goal
     * I am looking for an internship in HTML, CSS, JavaScript.
 - ### Skills
