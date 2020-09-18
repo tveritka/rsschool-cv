@@ -1,0 +1,100 @@
+    .main {
+        position: relative;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        width: fit-content;
+        margin: auto;
+    }
+
+    .header {
+        display: flex;
+        margin: 0px 25px 0px 0px;
+        font-variant: small-caps;
+        background-color: rgb(253, 249, 201);
+        padding: 30px;
+    }
+
+    .bold {
+        font-weight: 600;
+        font-size: large;
+    }
+
+    .right {
+        margin: 50px;
+    }
+
+    .down {
+        margin: 25px 0px 50px 25px;
+        padding: 25px;
+        font-variant: small-caps;
+        text-align: 150px;
+        height: 500px;
+        background-color: rgb(215, 243, 236);
+    }
+
+    .down h3, .right h3 {
+        color: rgb(15, 75, 134);
+    }
+
+    .left {
+        text-align: left;
+    }
+
+    .circle1 {
+        height: 180px;
+        width: 180px;
+        position: absolute;
+        bottom: 450px;
+        right: 50px;
+        border-radius: 50%;
+        background: rgba(255, 105, 180, 0.226);
+    }
+
+    .circle2 {
+        height: 80px;
+        width: 80px;
+        position: absolute;
+        bottom: 850px;
+        right: 45px;
+        border-radius: 50%;
+        background: rgba(149, 219, 221, 0.185);
+    }
+
+    .circle3 {
+        height: 120px;
+        width: 120px;
+        position: absolute;
+        bottom: 330px;
+        right: -25px;
+        border-radius: 50%;
+        background: rgba(253, 249, 201, 0.795);
+    }
+
+    .circle4 {
+        height: 110px;
+        width: 110px;
+        position: absolute;
+        bottom: 50px;
+        right: 35px;
+        border-radius: 50%;
+        background: rgba(255, 105, 180, 0.151);
+    }
+
+    .circle5 {
+        height: 80px;
+        width: 80px;
+        position: absolute;
+        bottom: 260px;
+        right: 105px;
+        border-radius: 50%;
+        background: rgba(56, 209, 214, 0.13);
+    }
+
+    .circle6 {
+        height: 120px;
+        width: 120px;
+        position: absolute;
+        bottom: 650px;
+        right: -10px;
+        border-radius: 50%;
+        background: rgba(41, 203, 209, 0.171);
+    }
